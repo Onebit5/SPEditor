@@ -1,0 +1,7 @@
+{
+    "Lua.runtime.version": "Lua 5.1",
+    "Lua.diagnostics.globals": ["love"],
+    "Lua.workspace.library": [
+        "D:/Work/Projects/LUA/Sprite Editor/love-api"
+  ]
+}
