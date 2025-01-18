@@ -29,6 +29,9 @@ function ui.draw()
         love.graphics.setColor(0, 0, 0)
         love.graphics.rectangle("line", colorButton.x, colorButton.y, colorButton.width, colorButton.height)
     end
+
+    
+    
 end
 
 function love.mousepressed(x, y, button)
