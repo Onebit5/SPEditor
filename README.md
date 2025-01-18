@@ -25,7 +25,7 @@ SPEditor is a lightweight, Lua-based sprite editor. With SPEditor, users can cre
 
 1. Clone this repository or download the project as a ZIP file and extract it to your desired location:
   ```
-  git clone <repository-url>
+  git clone https://github.com/Onebit5/SPEditor.git
   cd SPEditor
   ```
 2. Ensure that the required dependencies (LOVE2D and nativefs) are installed.
